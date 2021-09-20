@@ -1,6 +1,6 @@
 <h1 align='center'>Django Blog</h1>
-<p align='center'>Django Blog developed by Fuhad Ihthisham.</p>
-<img src="http://dangerousprototypes.com/wp-content/media/2011/01/django_logo-W490.jpg" alt="Django logo">
+<p align='center'>Django Blog developed by Arth Duggal.</p>
+
 
 
 # Screenshots:
@@ -14,10 +14,5 @@
 
 </br>
 
-instagram: https://www.instagram.com/fu_had_ihthisham/
 
-facebook:  https://www.facebook.com/fuhad.ihthisham/
-
-linkedIn:  https://www.linkedin.com/in/fuhad-ihthisham-5aa029184/
-
-deployed page:  https://fuhadihthisham.pythonanywhere.com/
+deployed page:  http://tiny.cc/kicjuz
