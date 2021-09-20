@@ -1,8 +1,13 @@
 <h1 align='center'>Django Blog</h1>
 <p align='center'>Django Blog developed by Arth Duggal.</p>
+<h1>Features:</h2>
+<p>One can write blogs about any topic.</p>
+<p>Easy to use GUI.</p>
 
-
-
+<h1>User registration:</h1>
+<p>Easy registeration/sign up.</p>
+<p>Registerd users can sign in and write blogs about different topics.</p>
+<p>After writing the blog user can sign out.</p>
 # Screenshots:
 
 
