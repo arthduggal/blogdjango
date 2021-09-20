@@ -1,4 +1,4 @@
-<h1 align='center'>Bloogersg</h1>
+<h1 align='center'>Bloogers</h1>
 <p align='center'>Django Blog developed by Arth Duggal.</p>
 <h1>Features:</h2>
 <p>One can write blogs about any topic.</p>
